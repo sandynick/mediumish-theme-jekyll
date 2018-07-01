@@ -3,7 +3,7 @@ layout: post
 title:  "‘Speech will be forgotten, visuals Will Remain’: says Pranab’s daughter as Ahmed Patel tweet reflects Congress mood"
 author: Sunny
 categories: [ Jekyll, tutorial ]
-image: assets/images/pranab.jpg
+image: assets/images/5.jpg
 featured: true
 ---
 A day before Pranab Mukherjee addresses an RSS event in Nagpur, the former president's daughter and Congress leader Sharmistha Mukherjee on Wednesday, 6 June, disapproved of his decision, saying he was giving the BJP and the Sangh a handle to plant false stories, as his "speech will be forgotten" but the "visuals will remain".
